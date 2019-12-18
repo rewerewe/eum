@@ -25,34 +25,39 @@ body {
 
 .home {
   position: relative;
-  width: 100%;
+  width: 100%;;
 }
 
 .page2 {
   position: relative;
   width: 100%;
   height: 595px;
+  left: 5%;
 }
-
+/* 191218 추가 */
+.map-container {
+  position: relative;
+  width: 100%;
+  left: 5%;
+}
 
 .map {
-position: relative;
-margin-top: -647px;
-  
+  margin-top: -647px;
 }
+
 .map img {
   position: relative;
   z-index: 2;
-  width: 647px;
-  height: 647px;
-
+  width: 100%;
+  height: 100%;
   left: 1260px;
-
 }
+
 .footer {
   position: relative;
-  height: 290px;
-  top: 50px;
+  width: 100%;
+  left: -25%;
+  top: 100px;
 }
 #wrap {
   position: relative;
