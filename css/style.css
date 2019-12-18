@@ -48,13 +48,13 @@ top: 0;
   font-size: 32px;
   color: white;
   opacity: 0;
-position: absolute;
-z-index: 99999;
-top: 727px;
-left: 913px;
-animation: bing 2s; 
-animation-delay: 7s;
-animation-fill-mode: both;
+  position: absolute;
+  z-index: 99999;
+  top: 70%;
+  left: 46.5%;
+  animation: bing 2s; 
+  animation-delay: 7s;
+  animation-fill-mode: both;
 }
 .tete a {
   color: white;
